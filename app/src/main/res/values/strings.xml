@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hong Kong Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shangri_la">"Kowloon Shangri-La"</string>
+    <string name="shangri_la_address">64 Mody Road, Tsim Sha Tsui, Hong Kong</string>
+    <string name="hotel_icon">Hotel Icon</string>
+    <string name="hotel_icon_address">17 Science Museum Road, Tsim Sha Tsui, Hong Kong</string>
+    <string name="hexa">HEXA</string>
+    <string name="hexa_address">Shop OTE 101, G/F, Ocean Terminal, Harbour City, 3_27 Canton Road, Tsim Sha Tsui</string>
+    <string name="book_fair">Hong Kong Book Fair 2018, Jul 18 _ Jul 24</string>
+    <string name="book_fair_address">"Hong Kong Convention and Exhibition Centre, Hong Kong</string>
+    <string name="centre">Hong Kong Convention and Exhibition Centre</string>
+    <string name="centre_address">1 Expo Dr, Wan Chai, Hong Kong</string>
+    <string name="kaifong">Kaifong Cafe</string>
+    <string name="kaifong_address">Shop 1E,F_H, G/F, Witty Commercial Building, 1 Tung Choi Street, Mong Kok</string>
+</resources>
